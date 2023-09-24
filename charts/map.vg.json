@@ -12,7 +12,7 @@
   "title": "Total Billionaire's Networth by Country",
   "projection": {"type": "equalEarth"},
   "data": {
-    "url": "https://raw.githubusercontent.com/v0za/FIT3179/main/countries_topo.json",
+    "url": "https://raw.githubusercontent.com/v0za/FIT3179/main/data/countries_topo.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
   },
   
@@ -20,14 +20,14 @@
    
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/v0za/FIT3179/main/ocean_topo.json",
+        "url": "https://raw.githubusercontent.com/v0za/FIT3179/main/data/ocean_topo.json",
         "format": {"type": "topojson", "feature": "oceans"}
       },
       "mark": {"type": "geoshape", "fill": "lightblue"}
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/v0za/FIT3179/main/graticules_topo.json",
+        "url": "https://raw.githubusercontent.com/v0za/FIT3179/main/data/graticules_topo.json",
         "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
       },
       "mark": {"type": "geoshape", "fill": null, "stroke": "gray"}
@@ -38,7 +38,7 @@
     },
 
     {
-  "data": {"url": "https://raw.githubusercontent.com/v0za/FIT3179/main/output.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/v0za/FIT3179/main/data/output.csv"},
   "mark": {"type": "circle", "color": "orange"},
   "encoding": {
     "longitude": {"field": "Longitude", "type": "quantitative"},
