@@ -1,0 +1,239 @@
+Year,Continent,Amount
+1986,North America,1.45
+1986,Europe and Central Asia,2.92
+1986,Latin America and Caribbean,4.29
+1986,Middle East and North America,7.21
+1986,East Asia and Pacific,16.36
+1986,South Asia,39.28
+1986,Sub-Saharan Africa,34.45
+1987,North America,1.06
+1987,Europe and Central Asia,2.71
+1987,Latin America and Caribbean,4.31
+1987,Middle East and North America,7.13
+1987,East Asia and Pacific,11.37
+1987,South Asia,41.73
+1987,Sub-Saharan Africa,36.5
+1988,North America,0.822
+1988,Europe and Central Asia,2.44
+1988,Latin America and Caribbean,4.56
+1988,Middle East and North America,7.12
+1988,East Asia and Pacific,9.05
+1988,South Asia,39.67
+1988,Sub-Saharan Africa,38.24
+1989,North America,0.578
+1989,Europe and Central Asia,2.53
+1989,Latin America and Caribbean,5.05
+1989,Middle East and North America,7.36
+1989,East Asia and Pacific,7.25
+1989,South Asia,37.55
+1989,Sub-Saharan Africa,38.9
+1990,North America,0.336
+1990,Europe and Central Asia,2.48
+1990,Latin America and Caribbean,4.83
+1990,Middle East and North America,6.68
+1990,East Asia and Pacific,7.5
+1990,South Asia,38.23
+1990,Sub-Saharan Africa,40.56
+1991,North America,0.282
+1991,Europe and Central Asia,2.29
+1991,Latin America and Caribbean,4.7
+1991,Middle East and North America,6.67
+1991,East Asia and Pacific,7.53
+1991,South Asia,38.76
+1991,Sub-Saharan Africa,40.82
+1992,North America,0.504
+1992,Europe and Central Asia,2.41
+1992,Latin America and Caribbean,4.3
+1992,Middle East and North America,7.71
+1992,East Asia and Pacific,8.51
+1992,South Asia,38.76
+1992,Sub-Saharan Africa,42.16
+1993,North America,0.765
+1993,Europe and Central Asia,2.54
+1993,Latin America and Caribbean,4.15
+1993,Middle East and North America,7.77
+1993,East Asia and Pacific,9.98
+1993,South Asia,37.34
+1993,Sub-Saharan Africa,42.91
+1994,North America,0.932
+1994,Europe and Central Asia,2.6
+1994,Latin America and Caribbean,4.48
+1994,Middle East and North America,7.25
+1994,East Asia and Pacific,11.93
+1994,South Asia,36.05
+1994,Sub-Saharan Africa,43.72
+1995,North America,0.753
+1995,Europe and Central Asia,2.77
+1995,Latin America and Caribbean,4.57
+1995,Middle East and North America,7.79
+1995,East Asia and Pacific,14.86
+1995,South Asia,36.14
+1995,Sub-Saharan Africa,44
+1996,North America,1
+1996,Europe and Central Asia,2.5
+1996,Latin America and Caribbean,4.31
+1996,Middle East and North America,7.09
+1996,East Asia and Pacific,17.14
+1996,South Asia,36.18
+1996,Sub-Saharan Africa,46.09
+1997,North America,0.814
+1997,Europe and Central Asia,2.45
+1997,Latin America and Caribbean,4.84
+1997,Middle East and North America,7.14
+1997,East Asia and Pacific,19
+1997,South Asia,36.51
+1997,Sub-Saharan Africa,44.4
+1998,North America,0.625
+1998,Europe and Central Asia,1.81
+1998,Latin America and Caribbean,2.97
+1998,Middle East and North America,7.23
+1998,East Asia and Pacific,15.45
+1998,South Asia,38.05
+1998,Sub-Saharan Africa,44.62
+1999,North America,0.485
+1999,Europe and Central Asia,1.68
+1999,Latin America and Caribbean,2.2
+1999,Middle East and North America,6.92
+1999,East Asia and Pacific,10.99
+1999,South Asia,37.19
+1999,Sub-Saharan Africa,44.72
+2000,North America,0.57
+2000,Europe and Central Asia,1.79
+2000,Latin America and Caribbean,1.97
+2000,Middle East and North America,6.4
+2000,East Asia and Pacific,10.17
+2000,South Asia,34.62
+2000,Sub-Saharan Africa,43.13
+2001,North America,0.629
+2001,Europe and Central Asia,1.58
+2001,Latin America and Caribbean,1.92
+2001,Middle East and North America,5.35
+2001,East Asia and Pacific,9.04
+2001,South Asia,34.72
+2001,Sub-Saharan Africa,41.67
+2002,North America,0.683
+2002,Europe and Central Asia,1.44
+2002,Latin America and Caribbean,1.61
+2002,Middle East and North America,4.55
+2002,East Asia and Pacific,8.67
+2002,South Asia,33.76
+2002,Sub-Saharan Africa,40.62
+2003,North America,0.601
+2003,Europe and Central Asia,1.32
+2003,Latin America and Caribbean,1.94
+2003,Middle East and North America,4.19
+2003,East Asia and Pacific,8.34
+2003,South Asia,26.97
+2003,Sub-Saharan Africa,38.59
+2004,North America,0.521
+2004,Europe and Central Asia,1.3
+2004,Latin America and Caribbean,1.93
+2004,Middle East and North America,3.85
+2004,East Asia and Pacific,8.7
+2004,South Asia,22.57
+2004,Sub-Saharan Africa,37.28
+2005,North America,0.211
+2005,Europe and Central Asia,1.47
+2005,Latin America and Caribbean,1.63
+2005,Middle East and North America,3.97
+2005,East Asia and Pacific,8.64
+2005,South Asia,19.49
+2005,Sub-Saharan Africa,35.45
+2006,North America,0.203
+2006,Europe and Central Asia,1.5
+2006,Latin America and Caribbean,1.51
+2006,Middle East and North America,4.03
+2006,East Asia and Pacific,9.64
+2006,South Asia,18.12
+2006,Sub-Saharan Africa,33.97
+2007,North America,0.16
+2007,Europe and Central Asia,1.44
+2007,Latin America and Caribbean,1.38
+2007,Middle East and North America,3.45
+2007,East Asia and Pacific,7.5
+2007,South Asia,14.89
+2007,Sub-Saharan Africa,31.63
+2008,North America,0.143
+2008,Europe and Central Asia,1.17
+2008,Latin America and Caribbean,1.37
+2008,Middle East and North America,3.14
+2008,East Asia and Pacific,7.33
+2008,South Asia,15.18
+2008,Sub-Saharan Africa,31.07
+2009,North America,0.427
+2009,Europe and Central Asia,1.3
+2009,Latin America and Caribbean,1.45
+2009,Middle East and North America,2.79
+2009,East Asia and Pacific,6.61
+2009,South Asia,16.71
+2009,Sub-Saharan Africa,31.24
+2010,North America,0.511
+2010,Europe and Central Asia,1.14
+2010,Latin America and Caribbean,1.55
+2010,Middle East and North America,2.32
+2010,East Asia and Pacific,6.31
+2010,South Asia,15.89
+2010,Sub-Saharan Africa,32.51
+2011,North America,0.6
+2011,Europe and Central Asia,1.09
+2011,Latin America and Caribbean,1.92
+2011,Middle East and North America,2.34
+2011,East Asia and Pacific,6.01
+2011,South Asia,17.15
+2011,Sub-Saharan Africa,31.45
+2012,North America,0.647
+2012,Europe and Central Asia,1.11
+2012,Latin America and Caribbean,1.88
+2012,Middle East and North America,1.99
+2012,East Asia and Pacific,5.91
+2012,South Asia,15.56
+2012,Sub-Saharan Africa,31.9
+2013,North America,0.724
+2013,Europe and Central Asia,0.963
+2013,Latin America and Caribbean,1.8
+2013,Middle East and North America,2.4
+2013,East Asia and Pacific,6.25
+2013,South Asia,13.64
+2013,Sub-Saharan Africa,31.91
+2014,North America,0.512
+2014,Europe and Central Asia,1.09
+2014,Latin America and Caribbean,1.94
+2014,Middle East and North America,2.63
+2014,East Asia and Pacific,6.09
+2014,South Asia,16.28
+2014,Sub-Saharan Africa,32.62
+2015,North America,0.456
+2015,Europe and Central Asia,0.984
+2015,Latin America and Caribbean,1.88
+2015,Middle East and North America,2.6
+2015,East Asia and Pacific,5.93
+2015,South Asia,17.39
+2015,Sub-Saharan Africa,33.95
+2016,North America,0.09
+2016,Europe and Central Asia,0.976
+2016,Latin America and Caribbean,1.93
+2016,Middle East and North America,2.66
+2016,East Asia and Pacific,6.08
+2016,South Asia,16.45
+2016,Sub-Saharan Africa,34.14
+2017,North America,0.108
+2017,Europe and Central Asia,0.986
+2017,Latin America and Caribbean,1.84
+2017,Middle East and North America,2.62
+2017,East Asia and Pacific,5.8
+2017,South Asia,16.53
+2017,Sub-Saharan Africa,34.94
+2018,North America,0.147
+2018,Europe and Central Asia,1.06
+2018,Latin America and Caribbean,1.73
+2018,Middle East and North America,2.57
+2018,East Asia and Pacific,5.73
+2018,South Asia,15.59
+2018,Sub-Saharan Africa,34.81
+2019,North America,0.232
+2019,Europe and Central Asia,1.1
+2019,Latin America and Caribbean,1.64
+2019,Middle East and North America,2.64
+2019,East Asia and Pacific,5.96
+2019,South Asia,14.97
+2019,Sub-Saharan Africa,36.27
